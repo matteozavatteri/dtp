@@ -1,0 +1,90 @@
+\scalebox{0.6}{\begin{tabular}{cccrrrrr}
+\hline
+\textbf{Technology} & \textbf{Encoding} & \textbf{Solver} & \textbf{Y} & \textbf{N} & \textbf{T} & \textbf{E} & \textbf{A}\\
+\hline
+\multirow{24}{*}{\textbf{SMT}}  & \multirow{6}{*}{naive} & yices & 0 & 0 & 100 & 0 & 1200.13 \\
+& & z3 & 0 & 0 & 100 & 0 & 1200.15 \\
+& & mathsat & 0 & 0 & 100 & 0 & 1200.17 \\
+& & cvc4 & 0 & 0 & 100 & 0 & 1200.15 \\
+& & veriT & 0 & 0 & 100 & 0 & 1200.12 \\
+& & opensmt & 0 & 0 & 100 & 0 & 1200.14 \\
+\cline{2-8}
+ & \multirow{6}{*}{switch} & yices & 0 & 0 & 100 & 0 & 1200.13 \\
+& & z3 & 0 & 0 & 100 & 0 & 1200.14 \\
+& & mathsat & 0 & 0 & 100 & 0 & 1200.18 \\
+& & cvc4 & 0 & 0 & 100 & 0 & 1200.17 \\
+& & veriT & 0 & 0 & 100 & 0 & 1200.14 \\
+& & opensmt & 0 & 0 & 100 & 0 & 1200.15 \\
+\cline{2-8}
+ & \multirow{6}{*}{switch-tcsp} & yices & 0 & 0 & 100 & 0 & 1200.13 \\
+& & z3 & 0 & 0 & 100 & 0 & 1200.14 \\
+& & mathsat & 0 & 0 & 100 & 0 & 1200.18 \\
+& & cvc4 & 0 & 0 & 100 & 0 & 1200.17 \\
+& & veriT & 0 & 0 & 100 & 0 & 1200.14 \\
+& & opensmt & 0 & 0 & 100 & 0 & 1200.14 \\
+\cline{2-8}
+ & \multirow{6}{*}{hole} & yices & 0 & 0 & 100 & 0 & 1200.13 \\
+& & z3 & 0 & 0 & 100 & 0 & 1200.16 \\
+& & mathsat & 0 & 0 & 100 & 0 & 1200.15 \\
+& & cvc4 & 0 & 0 & 100 & 0 & 1200.18 \\
+& & veriT & 0 & 0 & 100 & 0 & 1200.14 \\
+& & opensmt & 0 & 0 & 100 & 0 & 1200.15 \\
+\cline{2-8}
+\hline
+\multirow{20}{*}{\textbf{MILP}}  & \multirow{4}{*}{switch} & gurobi & 0 & 0 & 100 & 0 & 1200.27 \\
+& & cplex & 0 & 0 & 100 & 0 & 1200.34 \\
+& & scip & 0 & 0 & 100 & 0 & 1200.14 \\
+& & cbc & 0 & 0 & 86 & 14 & 1129.54 \\
+\cline{2-8}
+ & \multirow{4}{*}{switch-bd} & gurobi & 0 & 0 & 100 & 0 & 1200.18 \\
+& & cplex & 0 & 0 & 100 & 0 & 1200.25 \\
+& & scip & 0 & 0 & 100 & 0 & 1200.13 \\
+& & cbc & 0 & 0 & 99 & 1 & 1195.9 \\
+\cline{2-8}
+ & \multirow{4}{*}{switch-tcsp} & gurobi & 0 & 0 & 100 & 0 & 1200.26 \\
+& & cplex & 0 & 0 & 100 & 0 & 1200.38 \\
+& & scip & 0 & 0 & 100 & 0 & 1200.12 \\
+& & cbc & 0 & 0 & 100 & 0 & 1200.14 \\
+\cline{2-8}
+ & \multirow{4}{*}{switch-tcsp-bd} & gurobi & 0 & 0 & 100 & 0 & 1200.2 \\
+& & cplex & 0 & 0 & 100 & 0 & 1200.06 \\
+& & scip & 0 & 0 & 100 & 0 & 1200.16 \\
+& & cbc & 0 & 0 & 100 & 0 & 1200.14 \\
+\cline{2-8}
+ & \multirow{4}{*}{hole} & gurobi & 0 & 0 & 100 & 0 & 1200.35 \\
+& & cplex & 0 & 0 & 100 & 0 & 1200.32 \\
+& & scip & 0 & 0 & 100 & 0 & 1200.11 \\
+& & cbc & 0 & 0 & 100 & 0 & 1200.13 \\
+\cline{2-8}
+\hline
+\multirow{9}{*}{\textbf{SAT}}  & \multirow{3}{*}{naive} & kissat & 0 & 0 & 100 & 0 & 1201.41 \\
+& & cadical & 0 & 0 & 100 & 0 & 1201.41 \\
+& & cryptominisat & 0 & 0 & 100 & 0 & 1201.6 \\
+\cline{2-8}
+ & \multirow{3}{*}{xor} & kissat & 0 & 0 & 100 & 0 & 1201.48 \\
+& & cadical & 0 & 0 & 100 & 0 & 1201.54 \\
+& & cryptominisat & 0 & 0 & 100 & 0 & 1201.58 \\
+\cline{2-8}
+ & \multirow{3}{*}{hole} & kissat & 0 & 0 & 100 & 0 & 1201.45 \\
+& & cadical & 0 & 0 & 100 & 0 & 1201.54 \\
+& & cryptominisat & 0 & 0 & 100 & 0 & 1201.58 \\
+\cline{2-8}
+\hline
+\multirow{12}{*}{\textbf{CP}}  & \multirow{3}{*}{naive} & chuffed & 0 & 0 & 100 & 0 & 1200.2 \\
+& & gecode & 0 & 0 & 100 & 0 & 1200.03 \\
+& & or-tools & 0 & 0 & 100 & 0 & 1200.12 \\
+\cline{2-8}
+ & \multirow{3}{*}{switch} & chuffed & 0 & 0 & 100 & 0 & 1200.27 \\
+& & gecode & 0 & 0 & 100 & 0 & 1200.04 \\
+& & or-tools & 0 & 0 & 100 & 0 & 1200.05 \\
+\cline{2-8}
+ & \multirow{3}{*}{switch-tcsp} & chuffed & 0 & 0 & 100 & 0 & 1200.3 \\
+& & gecode & 0 & 0 & 100 & 0 & 1200.05 \\
+& & or-tools & 0 & 0 & 100 & 0 & 1200.05 \\
+\cline{2-8}
+ & \multirow{3}{*}{hole} & chuffed & 0 & 0 & 100 & 0 & 1200.17 \\
+& & gecode & 0 & 0 & 100 & 0 & 1200.04 \\
+& & or-tools & 0 & 0 & 100 & 0 & 1200.04 \\
+\cline{2-8}
+\hline
+\end{tabular}}

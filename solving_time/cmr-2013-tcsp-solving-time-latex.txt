@@ -1,0 +1,85 @@
+\scalebox{0.6}{\begin{tabular}{cccrrrrr}
+\hline
+\textbf{Technology} & \textbf{Encoding} & \textbf{Solver} & \textbf{Y} & \textbf{N} & \textbf{T} & \textbf{E} & \textbf{A}\\
+\hline
+\multirow{24}{*}{\textbf{SMT}}  & \multirow{6}{*}{naive} & yices & 1631 & 477 & 0 & 0 & 1.27 \\
+& & z3 & 1631 & 477 & 0 & 0 & 2.77 \\
+& & mathsat & 1631 & 477 & 0 & 0 & 0.8 \\
+& & cvc4 & 1631 & 477 & 0 & 0 & 26.56 \\
+& & veriT & 1631 & 477 & 0 & 0 & 17.33 \\
+& & opensmt & 1631 & 477 & 0 & 0 & 2.37 \\
+\cline{2-8}
+ & \multirow{6}{*}{switch} & yices & 1631 & 477 & 0 & 0 & 0.47 \\
+& & z3 & 1631 & 477 & 0 & 0 & 6.12 \\
+& & mathsat & 1631 & 477 & 0 & 0 & 25.25 \\
+& & cvc4 & 1631 & 477 & 0 & 0 & 48.31 \\
+& & veriT & 1631 & 477 & 0 & 0 & 19.07 \\
+& & opensmt & 1631 & 477 & 0 & 0 & 4.09 \\
+\cline{2-8}
+ & \multirow{6}{*}{switch-tcsp} & yices & 1631 & 477 & 0 & 0 & 0.5 \\
+& & z3 & 1631 & 477 & 0 & 0 & 6.58 \\
+& & mathsat & 1631 & 477 & 0 & 0 & 25.46 \\
+& & cvc4 & 1631 & 477 & 0 & 0 & 50.12 \\
+& & veriT & 1631 & 477 & 0 & 0 & 19.5 \\
+& & opensmt & 1631 & 477 & 0 & 0 & 4.54 \\
+\cline{2-8}
+ & \multirow{6}{*}{hole} & yices & 1631 & 477 & 0 & 0 & 0.1 \\
+& & z3 & 1631 & 477 & 0 & 0 & 2.03 \\
+& & mathsat & 1631 & 477 & 0 & 0 & 0.65 \\
+& & cvc4 & 1631 & 477 & 0 & 0 & 3.46 \\
+& & veriT & 1631 & 477 & 0 & 0 & 0.23 \\
+& & opensmt & 1631 & 477 & 0 & 0 & 1.01 \\
+\cline{2-8}
+\hline
+\multirow{16}{*}{\textbf{MILP}}  & \multirow{4}{*}{switch} & gurobi & 1631 & 462 & 15 & 0 & 5.57 \\
+& & cplex & 1631 & 476 & 1 & 0 & 2.63 \\
+& & scip & 1625 & 473 & 10 & 0 & 9.45 \\
+& & cbc & 1503 & 55 & 550 & 0 & 163.35 \\
+\cline{2-8}
+ & \multirow{4}{*}{switch-tcsp} & gurobi & 1631 & 477 & 0 & 0 & 0.43 \\
+& & cplex & 1631 & 477 & 0 & 0 & 0.35 \\
+& & scip & 1631 & 477 & 0 & 0 & 6.4 \\
+& & cbc & 1625 & 476 & 6 & 1 & 4.69 \\
+\cline{2-8}
+ & \multirow{4}{*}{hole} & gurobi & 1631 & 477 & 0 & 0 & 0.35 \\
+& & cplex & 1631 & 477 & 0 & 0 & 0.24 \\
+& & scip & 1631 & 477 & 0 & 0 & 3.15 \\
+& & cbc & 1631 & 476 & 1 & 0 & 1.79 \\
+\cline{2-8}
+ & \multirow{4}{*}{hole-hc} & gurobi & 1631 & 477 & 0 & 0 & 0.37 \\
+& & cplex & 1631 & 477 & 0 & 0 & 0.31 \\
+& & scip & 1631 & 477 & 0 & 0 & 3.45 \\
+& & cbc & 1630 & 476 & 2 & 0 & 2.0 \\
+\cline{2-8}
+\hline
+\multirow{9}{*}{\textbf{SAT}}  & \multirow{3}{*}{naive} & kissat & 908 & 436 & 764 & 0 & 328.76 \\
+& & cadical & 1631 & 477 & 0 & 0 & 110.86 \\
+& & cryptominisat & 1631 & 477 & 0 & 0 & 139.57 \\
+\cline{2-8}
+ & \multirow{3}{*}{xor} & kissat & 897 & 434 & 777 & 0 & 330.75 \\
+& & cadical & 1631 & 477 & 0 & 0 & 111.2 \\
+& & cryptominisat & 1631 & 477 & 0 & 0 & 140.85 \\
+\cline{2-8}
+ & \multirow{3}{*}{hole} & kissat & 892 & 435 & 781 & 0 & 331.52 \\
+& & cadical & 1631 & 477 & 0 & 0 & 112.79 \\
+& & cryptominisat & 1631 & 477 & 0 & 0 & 140.18 \\
+\cline{2-8}
+\hline
+\multirow{12}{*}{\textbf{CP}}  & \multirow{3}{*}{naive} & chuffed & 98 & 149 & 1856 & 5 & 543.54 \\
+& & gecode & 6 & 6 & 2096 & 0 & 596.62 \\
+& & or-tools & 92 & 285 & 1731 & 0 & 497.69 \\
+\cline{2-8}
+ & \multirow{3}{*}{switch} & chuffed & 90 & 143 & 1728 & 147 & 536.88 \\
+& & gecode & 5 & 2 & 2101 & 0 & 598.04 \\
+& & or-tools & 96 & 285 & 1727 & 0 & 496.45 \\
+\cline{2-8}
+ & \multirow{3}{*}{switch-tcsp} & chuffed & 99 & 307 & 1654 & 48 & 494.39 \\
+& & gecode & 4 & 2 & 2102 & 0 & 598.32 \\
+& & or-tools & 93 & 285 & 1730 & 0 & 497.48 \\
+\cline{2-8}
+ & \multirow{3}{*}{hole} & chuffed & 1195 & 476 & 49 & 388 & 78.18 \\
+& & gecode & 1621 & 473 & 14 & 0 & 6.76 \\
+& & or-tools & 1631 & 469 & 8 & 0 & 32.53 \\
+\cline{2-8}
+\hline
+\end{tabular}}

@@ -1,0 +1,37 @@
+
+Gurobi 10.0.0 (mac64[x86], gurobi_cl) logging started Tue Jan 10 21:39:33 2023
+
+Set parameter Username
+Set parameter IntFeasTol to value 1e-06
+Set parameter MIPFocus to value 1
+Set parameter LogFile to value "gurobi.log"
+Academic license - for non-commercial use only - expires 2023-11-06
+Using license file /Users/matteozavatteri/gurobi.lic
+
+Gurobi Optimizer version 10.0.0 build v10.0.0rc2 (mac64[x86])
+Copyright (c) 2022, Gurobi Optimization, LLC
+
+Read LP format model from file __tmp__/__000__.lp
+Reading time = 0.00 seconds
+: 356 rows, 184 columns, 999 nonzeros
+
+CPU model: Intel(R) Core(TM) i5-4258U CPU @ 2.40GHz
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+
+Optimize a model with 356 rows, 184 columns and 999 nonzeros
+Model fingerprint: 0xf0c9b793
+Variable types: 43 continuous, 141 integer (141 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+04]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+04]
+Found heuristic solution: objective 0.0000000
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds (0.00 work units)
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%

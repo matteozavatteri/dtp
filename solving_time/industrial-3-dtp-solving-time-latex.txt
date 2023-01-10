@@ -1,0 +1,40 @@
+\scalebox{0.6}{\begin{tabular}{cccrrrrr}
+\hline
+\textbf{Technology} & \textbf{Encoding} & \textbf{Solver} & \textbf{Y} & \textbf{N} & \textbf{T} & \textbf{E} & \textbf{A}\\
+\hline
+\multirow{12}{*}{\textbf{SMT}}  & \multirow{6}{*}{naive} & yices & 2978 & 95 & 0 & 0 & 0.01 \\
+& & z3 & 2978 & 95 & 0 & 0 & 0.03 \\
+& & mathsat & 2978 & 95 & 0 & 0 & 0.03 \\
+& & cvc4 & 2978 & 95 & 0 & 0 & 0.06 \\
+& & veriT & 2978 & 95 & 0 & 0 & 0.01 \\
+& & opensmt & 2978 & 95 & 0 & 0 & 0.03 \\
+\cline{2-8}
+ & \multirow{6}{*}{switch} & yices & 2978 & 95 & 0 & 0 & 0.01 \\
+& & z3 & 2978 & 95 & 0 & 0 & 0.04 \\
+& & mathsat & 2978 & 95 & 0 & 0 & 0.03 \\
+& & cvc4 & 2978 & 95 & 0 & 0 & 0.08 \\
+& & veriT & 2978 & 95 & 0 & 0 & 0.01 \\
+& & opensmt & 2978 & 95 & 0 & 0 & 0.04 \\
+\cline{2-8}
+\hline
+\multirow{4}{*}{\textbf{MILP}}  & \multirow{4}{*}{switch} & gurobi & 2978 & 95 & 0 & 0 & 0.03 \\
+& & cplex & 2978 & 95 & 0 & 0 & 0.09 \\
+& & scip & 2978 & 95 & 0 & 0 & 0.05 \\
+& & cbc & 2977 & 95 & 1 & 0 & 0.7 \\
+\cline{2-8}
+\hline
+\multirow{3}{*}{\textbf{SAT}}  & \multirow{3}{*}{naive} & kissat & 2978 & 95 & 0 & 0 & 0.37 \\
+& & cadical & 2978 & 95 & 0 & 0 & 0.51 \\
+& & cryptominisat & 2978 & 95 & 0 & 0 & 0.52 \\
+\cline{2-8}
+\hline
+\multirow{6}{*}{\textbf{CP}}  & \multirow{3}{*}{naive} & chuffed & 2978 & 95 & 0 & 0 & 1.7 \\
+& & gecode & 527 & 93 & 2453 & 0 & 480.29 \\
+& & or-tools & 2398 & 95 & 580 & 0 & 127.92 \\
+\cline{2-8}
+ & \multirow{3}{*}{switch} & chuffed & 2978 & 95 & 0 & 0 & 2.83 \\
+& & gecode & 124 & 93 & 2856 & 0 & 558.45 \\
+& & or-tools & 2608 & 95 & 370 & 0 & 77.34 \\
+\cline{2-8}
+\hline
+\end{tabular}}

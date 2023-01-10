@@ -1,0 +1,317 @@
+{
+    "1-Insertions_4.col": {
+        "answer": 1,
+        "encoding_time": 0.0032176971435546875,
+        "solving_time": 8.293195724487305
+    },
+    "2-Insertions_3.col": {
+        "answer": 1,
+        "encoding_time": 0.003392457962036133,
+        "solving_time": 0.027679920196533203
+    },
+    "2-Insertions_4.col": {
+        "answer": "?",
+        "encoding_time": 0.006934165954589844,
+        "solving_time": 1200.0390226840973
+    },
+    "3-Insertions_3.col": {
+        "answer": 1,
+        "encoding_time": 0.002038717269897461,
+        "solving_time": 0.04501605033874512
+    },
+    "4-Insertions_3.col": {
+        "answer": 1,
+        "encoding_time": 0.002361297607421875,
+        "solving_time": 0.06506991386413574
+    },
+    "anna.col": {
+        "answer": 1,
+        "encoding_time": 0.006719827651977539,
+        "solving_time": 140.24180340766907
+    },
+    "david.col": {
+        "answer": 1,
+        "encoding_time": 0.005456447601318359,
+        "solving_time": 28.49531602859497
+    },
+    "fpsol2.i.1.col": {
+        "answer": "?",
+        "encoding_time": 0.14863300323486328,
+        "solving_time": 1200.1220321655273
+    },
+    "fpsol2.i.2.col": {
+        "answer": "?",
+        "encoding_time": 0.1135709285736084,
+        "solving_time": 1200.1207149028778
+    },
+    "fpsol2.i.3.col": {
+        "answer": "?",
+        "encoding_time": 0.12038588523864746,
+        "solving_time": 1200.1194133758545
+    },
+    "games120.col": {
+        "answer": "?",
+        "encoding_time": 0.007915735244750977,
+        "solving_time": 1200.0120208263397
+    },
+    "homer.col": {
+        "answer": "?",
+        "encoding_time": 0.02259087562561035,
+        "solving_time": 1200.081043958664
+    },
+    "huck.col": {
+        "answer": 1,
+        "encoding_time": 0.003805398941040039,
+        "solving_time": 18.134477853775024
+    },
+    "inithx.i.1.col": {
+        "answer": "?",
+        "encoding_time": 0.22916460037231445,
+        "solving_time": 1200.149445772171
+    },
+    "inithx.i.2.col": {
+        "answer": "?",
+        "encoding_time": 0.19097089767456055,
+        "solving_time": 1200.122970342636
+    },
+    "inithx.i.3.col": {
+        "answer": "?",
+        "encoding_time": 0.16559171676635742,
+        "solving_time": 1200.028157234192
+    },
+    "jean.col": {
+        "answer": 1,
+        "encoding_time": 0.004015445709228516,
+        "solving_time": 51.49809169769287
+    },
+    "le450_15a.col": {
+        "answer": "?",
+        "encoding_time": 0.10480546951293945,
+        "solving_time": 1200.1154885292053
+    },
+    "le450_15b.col": {
+        "answer": "?",
+        "encoding_time": 0.10810995101928711,
+        "solving_time": 1200.043202161789
+    },
+    "le450_15c.col": {
+        "answer": "?",
+        "encoding_time": 0.20994877815246582,
+        "solving_time": 1200.1252326965332
+    },
+    "le450_15d.col": {
+        "answer": "?",
+        "encoding_time": 0.21055030822753906,
+        "solving_time": 1200.143636226654
+    },
+    "le450_25a.col": {
+        "answer": "?",
+        "encoding_time": 0.10105419158935547,
+        "solving_time": 1200.1180229187012
+    },
+    "le450_25b.col": {
+        "answer": "?",
+        "encoding_time": 0.10316276550292969,
+        "solving_time": 1200.1181073188782
+    },
+    "le450_25c.col": {
+        "answer": "?",
+        "encoding_time": 0.2419729232788086,
+        "solving_time": 1200.1231472492218
+    },
+    "le450_25d.col": {
+        "answer": "?",
+        "encoding_time": 0.22063899040222168,
+        "solving_time": 1200.122761964798
+    },
+    "le450_5a.col": {
+        "answer": "?",
+        "encoding_time": 0.07188916206359863,
+        "solving_time": 1200.13547873497
+    },
+    "le450_5b.col": {
+        "answer": "?",
+        "encoding_time": 0.07981514930725098,
+        "solving_time": 1200.1199133396149
+    },
+    "le450_5c.col": {
+        "answer": "?",
+        "encoding_time": 0.12137508392333984,
+        "solving_time": 1200.123165845871
+    },
+    "le450_5d.col": {
+        "answer": "?",
+        "encoding_time": 0.11995792388916016,
+        "solving_time": 1200.1348669528961
+    },
+    "miles1000.col": {
+        "answer": "?",
+        "encoding_time": 0.03995800018310547,
+        "solving_time": 1200.0337154865265
+    },
+    "miles1500.col": {
+        "answer": "?",
+        "encoding_time": 0.06245255470275879,
+        "solving_time": 1200.046826839447
+    },
+    "miles250.col": {
+        "answer": "?",
+        "encoding_time": 0.0049610137939453125,
+        "solving_time": 1200.0576031208038
+    },
+    "miles500.col": {
+        "answer": "?",
+        "encoding_time": 0.013740777969360352,
+        "solving_time": 1200.0183720588684
+    },
+    "miles750.col": {
+        "answer": "?",
+        "encoding_time": 0.025905132293701172,
+        "solving_time": 1200.0711154937744
+    },
+    "mug100_1.col": {
+        "answer": 1,
+        "encoding_time": 0.0026009082794189453,
+        "solving_time": 4.658548831939697
+    },
+    "mug100_25.col": {
+        "answer": 1,
+        "encoding_time": 0.002592802047729492,
+        "solving_time": 3.4750847816467285
+    },
+    "mug88_1.col": {
+        "answer": 1,
+        "encoding_time": 0.002313375473022461,
+        "solving_time": 4.181230545043945
+    },
+    "mug88_25.col": {
+        "answer": 1,
+        "encoding_time": 0.0022449493408203125,
+        "solving_time": 3.8498408794403076
+    },
+    "mulsol.i.1.col": {
+        "answer": "?",
+        "encoding_time": 0.05491328239440918,
+        "solving_time": 1200.0292105674744
+    },
+    "mulsol.i.2.col": {
+        "answer": "?",
+        "encoding_time": 0.0457303524017334,
+        "solving_time": 1200.034425020218
+    },
+    "mulsol.i.3.col": {
+        "answer": "?",
+        "encoding_time": 0.0446772575378418,
+        "solving_time": 1200.1346452236176
+    },
+    "mulsol.i.4.col": {
+        "answer": "?",
+        "encoding_time": 0.051464080810546875,
+        "solving_time": 1200.0214095115662
+    },
+    "mulsol.i.5.col": {
+        "answer": "?",
+        "encoding_time": 0.05053114891052246,
+        "solving_time": 1200.0621557235718
+    },
+    "myciel3.col": {
+        "answer": 1,
+        "encoding_time": 0.0005757808685302734,
+        "solving_time": 0.0258333683013916
+    },
+    "myciel4.col": {
+        "answer": 1,
+        "encoding_time": 0.001222372055053711,
+        "solving_time": 0.08982467651367188
+    },
+    "myciel5.col": {
+        "answer": 1,
+        "encoding_time": 0.003278970718383789,
+        "solving_time": 4.946333646774292
+    },
+    "myciel6.col": {
+        "answer": "?",
+        "encoding_time": 0.011053800582885742,
+        "solving_time": 1200.0152311325073
+    },
+    "myciel7.col": {
+        "answer": "?",
+        "encoding_time": 0.030049562454223633,
+        "solving_time": 1200.061024427414
+    },
+    "qg.order100.col": {
+        "answer": "?",
+        "encoding_time": 15.946385383605957,
+        "solving_time": 1200.246179819107
+    },
+    "qg.order30.col": {
+        "answer": "?",
+        "encoding_time": 0.32510995864868164,
+        "solving_time": 1200.1277208328247
+    },
+    "qg.order40.col": {
+        "answer": "?",
+        "encoding_time": 0.7770900726318359,
+        "solving_time": 1200.146050453186
+    },
+    "qg.order60.col": {
+        "answer": "?",
+        "encoding_time": 3.072875738143921,
+        "solving_time": 1200.210837841034
+    },
+    "queen11_11.col": {
+        "answer": "?",
+        "encoding_time": 0.02189350128173828,
+        "solving_time": 1200.0432920455933
+    },
+    "queen13_13.col": {
+        "answer": "?",
+        "encoding_time": 0.045676231384277344,
+        "solving_time": 1200.1321320533752
+    },
+    "queen5_5.col": {
+        "answer": 1,
+        "encoding_time": 0.002267599105834961,
+        "solving_time": 80.97626399993896
+    },
+    "queen6_6.col": {
+        "answer": "?",
+        "encoding_time": 0.003548860549926758,
+        "solving_time": 1200.06187748909
+    },
+    "queen7_7.col": {
+        "answer": "?",
+        "encoding_time": 0.006253480911254883,
+        "solving_time": 1200.0837342739105
+    },
+    "queen8_12.col": {
+        "answer": "?",
+        "encoding_time": 0.02165389060974121,
+        "solving_time": 1200.0127394199371
+    },
+    "queen8_8.col": {
+        "answer": "?",
+        "encoding_time": 0.008138179779052734,
+        "solving_time": 1200.0177819728851
+    },
+    "queen9_9.col": {
+        "answer": "?",
+        "encoding_time": 0.012359142303466797,
+        "solving_time": 1200.0098266601562
+    },
+    "zeroin.i.1.col": {
+        "answer": "?",
+        "encoding_time": 0.05396842956542969,
+        "solving_time": 1200.05220246315
+    },
+    "zeroin.i.2.col": {
+        "answer": "?",
+        "encoding_time": 0.045514583587646484,
+        "solving_time": 1200.0408568382263
+    },
+    "zeroin.i.3.col": {
+        "answer": "?",
+        "encoding_time": 0.04398798942565918,
+        "solving_time": 1200.0139737129211
+    }
+}

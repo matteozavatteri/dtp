@@ -1,0 +1,502 @@
+{
+    "graph0001": {
+        "answer": "?",
+        "encoding_time": 0.02390599250793457,
+        "solving_time": 1200.1147911548615
+    },
+    "graph0002": {
+        "answer": "?",
+        "encoding_time": 0.03256797790527344,
+        "solving_time": 1200.1125025749207
+    },
+    "graph0003": {
+        "answer": "?",
+        "encoding_time": 0.04024386405944824,
+        "solving_time": 1200.1140322685242
+    },
+    "graph0004": {
+        "answer": "?",
+        "encoding_time": 0.04662132263183594,
+        "solving_time": 1200.1140735149384
+    },
+    "graph0005": {
+        "answer": "?",
+        "encoding_time": 0.04977703094482422,
+        "solving_time": 1200.117728471756
+    },
+    "graph0006": {
+        "answer": "?",
+        "encoding_time": 0.05603790283203125,
+        "solving_time": 1200.1107544898987
+    },
+    "graph0007": {
+        "answer": "?",
+        "encoding_time": 0.05297422409057617,
+        "solving_time": 1200.1176986694336
+    },
+    "graph0008": {
+        "answer": "?",
+        "encoding_time": 0.06670975685119629,
+        "solving_time": 1200.1150290966034
+    },
+    "graph0009": {
+        "answer": "?",
+        "encoding_time": 0.06551313400268555,
+        "solving_time": 1200.114325761795
+    },
+    "graph0010": {
+        "answer": "?",
+        "encoding_time": 0.0706491470336914,
+        "solving_time": 1200.1153304576874
+    },
+    "graph0011": {
+        "answer": "?",
+        "encoding_time": 0.08455181121826172,
+        "solving_time": 1200.1160428524017
+    },
+    "graph0012": {
+        "answer": "?",
+        "encoding_time": 0.09469008445739746,
+        "solving_time": 1200.1124246120453
+    },
+    "graph0013": {
+        "answer": "?",
+        "encoding_time": 0.10607552528381348,
+        "solving_time": 1200.1149468421936
+    },
+    "graph0014": {
+        "answer": "?",
+        "encoding_time": 0.11238789558410645,
+        "solving_time": 1200.1026854515076
+    },
+    "graph0015": {
+        "answer": "?",
+        "encoding_time": 0.1434919834136963,
+        "solving_time": 1200.0683908462524
+    },
+    "graph0016": {
+        "answer": "?",
+        "encoding_time": 0.13155055046081543,
+        "solving_time": 1200.0754914283752
+    },
+    "graph0017": {
+        "answer": "?",
+        "encoding_time": 0.1408226490020752,
+        "solving_time": 1200.045110464096
+    },
+    "graph0018": {
+        "answer": "?",
+        "encoding_time": 0.15675663948059082,
+        "solving_time": 1200.0416643619537
+    },
+    "graph0019": {
+        "answer": "?",
+        "encoding_time": 0.15308761596679688,
+        "solving_time": 1200.1175603866577
+    },
+    "graph0020": {
+        "answer": "?",
+        "encoding_time": 0.159315824508667,
+        "solving_time": 1200.131007194519
+    },
+    "graph0021": {
+        "answer": "?",
+        "encoding_time": 0.18420171737670898,
+        "solving_time": 1200.119860649109
+    },
+    "graph0022": {
+        "answer": "?",
+        "encoding_time": 0.17850685119628906,
+        "solving_time": 1200.0570611953735
+    },
+    "graph0023": {
+        "answer": "?",
+        "encoding_time": 0.20140695571899414,
+        "solving_time": 1200.0483660697937
+    },
+    "graph0024": {
+        "answer": "?",
+        "encoding_time": 0.20362114906311035,
+        "solving_time": 1200.1190583705902
+    },
+    "graph0025": {
+        "answer": "?",
+        "encoding_time": 0.2126915454864502,
+        "solving_time": 1200.1329748630524
+    },
+    "graph0026": {
+        "answer": "?",
+        "encoding_time": 0.23769068717956543,
+        "solving_time": 1200.1232104301453
+    },
+    "graph0027": {
+        "answer": "?",
+        "encoding_time": 0.24046015739440918,
+        "solving_time": 1200.120215177536
+    },
+    "graph0028": {
+        "answer": "?",
+        "encoding_time": 0.24663853645324707,
+        "solving_time": 1200.1384427547455
+    },
+    "graph0029": {
+        "answer": "?",
+        "encoding_time": 0.30179619789123535,
+        "solving_time": 1200.1337802410126
+    },
+    "graph0030": {
+        "answer": "?",
+        "encoding_time": 0.30539369583129883,
+        "solving_time": 1200.137234210968
+    },
+    "graph0031": {
+        "answer": "?",
+        "encoding_time": 0.32358646392822266,
+        "solving_time": 1200.1294395923615
+    },
+    "graph0032": {
+        "answer": "?",
+        "encoding_time": 0.35041284561157227,
+        "solving_time": 1200.1345708370209
+    },
+    "graph0033": {
+        "answer": "?",
+        "encoding_time": 0.32983994483947754,
+        "solving_time": 1200.1427164077759
+    },
+    "graph0034": {
+        "answer": "?",
+        "encoding_time": 0.36325645446777344,
+        "solving_time": 1200.142141342163
+    },
+    "graph0035": {
+        "answer": "?",
+        "encoding_time": 0.3710176944732666,
+        "solving_time": 1200.1279122829437
+    },
+    "graph0036": {
+        "answer": "?",
+        "encoding_time": 0.3834099769592285,
+        "solving_time": 1200.1430189609528
+    },
+    "graph0037": {
+        "answer": "?",
+        "encoding_time": 0.4176967144012451,
+        "solving_time": 1200.1259286403656
+    },
+    "graph0038": {
+        "answer": "?",
+        "encoding_time": 0.4274406433105469,
+        "solving_time": 1200.1313035488129
+    },
+    "graph0039": {
+        "answer": "?",
+        "encoding_time": 0.4371001720428467,
+        "solving_time": 1200.1304845809937
+    },
+    "graph0040": {
+        "answer": "?",
+        "encoding_time": 0.4515693187713623,
+        "solving_time": 1200.1293625831604
+    },
+    "graph0041": {
+        "answer": "?",
+        "encoding_time": 0.4743211269378662,
+        "solving_time": 1200.1287410259247
+    },
+    "graph0042": {
+        "answer": "?",
+        "encoding_time": 0.48120999336242676,
+        "solving_time": 1200.1460220813751
+    },
+    "graph0043": {
+        "answer": "?",
+        "encoding_time": 0.554389238357544,
+        "solving_time": 1200.1349604129791
+    },
+    "graph0044": {
+        "answer": "?",
+        "encoding_time": 0.5350592136383057,
+        "solving_time": 1200.151279449463
+    },
+    "graph0045": {
+        "answer": "?",
+        "encoding_time": 0.5841960906982422,
+        "solving_time": 1200.1550123691559
+    },
+    "graph0046": {
+        "answer": "?",
+        "encoding_time": 0.5992090702056885,
+        "solving_time": 1200.1526274681091
+    },
+    "graph0047": {
+        "answer": "?",
+        "encoding_time": 0.6049983501434326,
+        "solving_time": 1200.1415174007416
+    },
+    "graph0048": {
+        "answer": "?",
+        "encoding_time": 0.6177594661712646,
+        "solving_time": 1200.1529557704926
+    },
+    "graph0049": {
+        "answer": "?",
+        "encoding_time": 0.6172733306884766,
+        "solving_time": 1200.1396114826202
+    },
+    "graph0050": {
+        "answer": "?",
+        "encoding_time": 0.6389143466949463,
+        "solving_time": 1200.1367058753967
+    },
+    "graph0051": {
+        "answer": "?",
+        "encoding_time": 0.6885366439819336,
+        "solving_time": 1200.1556768417358
+    },
+    "graph0052": {
+        "answer": "?",
+        "encoding_time": 0.7006337642669678,
+        "solving_time": 1200.143210887909
+    },
+    "graph0053": {
+        "answer": "?",
+        "encoding_time": 0.7092952728271484,
+        "solving_time": 1200.154351234436
+    },
+    "graph0054": {
+        "answer": "?",
+        "encoding_time": 0.7879283428192139,
+        "solving_time": 1200.1473081111908
+    },
+    "graph0055": {
+        "answer": "?",
+        "encoding_time": 0.7945218086242676,
+        "solving_time": 1200.1456534862518
+    },
+    "graph0056": {
+        "answer": "?",
+        "encoding_time": 0.7794375419616699,
+        "solving_time": 1200.1578941345215
+    },
+    "graph0057": {
+        "answer": "?",
+        "encoding_time": 0.8226077556610107,
+        "solving_time": 1200.1447494029999
+    },
+    "graph0058": {
+        "answer": "?",
+        "encoding_time": 0.8187191486358643,
+        "solving_time": 1200.146683216095
+    },
+    "graph0059": {
+        "answer": "?",
+        "encoding_time": 0.8933935165405273,
+        "solving_time": 1200.1615340709686
+    },
+    "graph0060": {
+        "answer": "?",
+        "encoding_time": 0.9076340198516846,
+        "solving_time": 1200.1446614265442
+    },
+    "graph0061": {
+        "answer": "?",
+        "encoding_time": 0.8842132091522217,
+        "solving_time": 1200.1594393253326
+    },
+    "graph0062": {
+        "answer": "?",
+        "encoding_time": 0.905128002166748,
+        "solving_time": 1200.1609699726105
+    },
+    "graph0063": {
+        "answer": "?",
+        "encoding_time": 0.91184401512146,
+        "solving_time": 1200.1481869220734
+    },
+    "graph0064": {
+        "answer": "?",
+        "encoding_time": 0.941103458404541,
+        "solving_time": 1200.15003490448
+    },
+    "graph0065": {
+        "answer": "?",
+        "encoding_time": 0.9581248760223389,
+        "solving_time": 1200.1535477638245
+    },
+    "graph0066": {
+        "answer": "?",
+        "encoding_time": 1.0034184455871582,
+        "solving_time": 1200.1542863845825
+    },
+    "graph0067": {
+        "answer": "?",
+        "encoding_time": 0.9860529899597168,
+        "solving_time": 1200.1685857772827
+    },
+    "graph0068": {
+        "answer": "?",
+        "encoding_time": 1.0554158687591553,
+        "solving_time": 1200.1556918621063
+    },
+    "graph0069": {
+        "answer": "?",
+        "encoding_time": 1.1168131828308105,
+        "solving_time": 1200.1094086170197
+    },
+    "graph0070": {
+        "answer": "?",
+        "encoding_time": 1.0949304103851318,
+        "solving_time": 1200.163536787033
+    },
+    "graph0071": {
+        "answer": "?",
+        "encoding_time": 1.1029884815216064,
+        "solving_time": 1200.1567902565002
+    },
+    "graph0072": {
+        "answer": "?",
+        "encoding_time": 1.1521327495574951,
+        "solving_time": 1200.173676252365
+    },
+    "graph0073": {
+        "answer": "?",
+        "encoding_time": 1.1215550899505615,
+        "solving_time": 1200.1767008304596
+    },
+    "graph0074": {
+        "answer": "?",
+        "encoding_time": 1.2043287754058838,
+        "solving_time": 1200.1624774932861
+    },
+    "graph0075": {
+        "answer": "?",
+        "encoding_time": 1.2095575332641602,
+        "solving_time": 1200.172120809555
+    },
+    "graph0076": {
+        "answer": "?",
+        "encoding_time": 1.2049546241760254,
+        "solving_time": 1200.1618225574493
+    },
+    "graph0077": {
+        "answer": "?",
+        "encoding_time": 1.2293007373809814,
+        "solving_time": 1200.1791880130768
+    },
+    "graph0078": {
+        "answer": "?",
+        "encoding_time": 1.277803897857666,
+        "solving_time": 1200.17764544487
+    },
+    "graph0079": {
+        "answer": "?",
+        "encoding_time": 1.343092679977417,
+        "solving_time": 1200.1714520454407
+    },
+    "graph0080": {
+        "answer": "?",
+        "encoding_time": 1.2853138446807861,
+        "solving_time": 1200.1879675388336
+    },
+    "graph0081": {
+        "answer": "?",
+        "encoding_time": 1.3447003364562988,
+        "solving_time": 1200.1675593852997
+    },
+    "graph0082": {
+        "answer": "?",
+        "encoding_time": 1.302410364151001,
+        "solving_time": 1200.1743936538696
+    },
+    "graph0083": {
+        "answer": "?",
+        "encoding_time": 1.5921337604522705,
+        "solving_time": 1200.1905920505524
+    },
+    "graph0084": {
+        "answer": "?",
+        "encoding_time": 1.3440630435943604,
+        "solving_time": 1200.1701817512512
+    },
+    "graph0085": {
+        "answer": "?",
+        "encoding_time": 1.433363914489746,
+        "solving_time": 1200.1641416549683
+    },
+    "graph0086": {
+        "answer": "?",
+        "encoding_time": 1.3851056098937988,
+        "solving_time": 1200.1678357124329
+    },
+    "graph0087": {
+        "answer": "?",
+        "encoding_time": 1.5741569995880127,
+        "solving_time": 1200.1727001667023
+    },
+    "graph0088": {
+        "answer": "?",
+        "encoding_time": 1.3939599990844727,
+        "solving_time": 1200.2224214076996
+    },
+    "graph0089": {
+        "answer": "?",
+        "encoding_time": 1.7033815383911133,
+        "solving_time": 1200.1702225208282
+    },
+    "graph0090": {
+        "answer": "?",
+        "encoding_time": 1.4914250373840332,
+        "solving_time": 1200.1854462623596
+    },
+    "graph0091": {
+        "answer": "?",
+        "encoding_time": 1.6250090599060059,
+        "solving_time": 1200.1697726249695
+    },
+    "graph0092": {
+        "answer": "?",
+        "encoding_time": 1.510007619857788,
+        "solving_time": 1200.1998867988586
+    },
+    "graph0093": {
+        "answer": "?",
+        "encoding_time": 1.5786447525024414,
+        "solving_time": 1200.1703855991364
+    },
+    "graph0094": {
+        "answer": "?",
+        "encoding_time": 1.5717909336090088,
+        "solving_time": 1200.171852350235
+    },
+    "graph0095": {
+        "answer": "?",
+        "encoding_time": 1.798922061920166,
+        "solving_time": 1200.1947693824768
+    },
+    "graph0096": {
+        "answer": "?",
+        "encoding_time": 1.6781680583953857,
+        "solving_time": 1200.199943780899
+    },
+    "graph0097": {
+        "answer": "?",
+        "encoding_time": 1.6960270404815674,
+        "solving_time": 1200.196543931961
+    },
+    "graph0098": {
+        "answer": "?",
+        "encoding_time": 1.6223435401916504,
+        "solving_time": 1200.3201801776886
+    },
+    "graph0099": {
+        "answer": "?",
+        "encoding_time": 1.7741777896881104,
+        "solving_time": 1200.1996202468872
+    },
+    "graph0100": {
+        "answer": "?",
+        "encoding_time": 1.8447275161743164,
+        "solving_time": 1200.1776819229126
+    }
+}

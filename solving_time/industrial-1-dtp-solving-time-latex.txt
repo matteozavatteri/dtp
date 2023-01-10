@@ -1,0 +1,40 @@
+\scalebox{0.6}{\begin{tabular}{cccrrrrr}
+\hline
+\textbf{Technology} & \textbf{Encoding} & \textbf{Solver} & \textbf{Y} & \textbf{N} & \textbf{T} & \textbf{E} & \textbf{A}\\
+\hline
+\multirow{12}{*}{\textbf{SMT}}  & \multirow{6}{*}{naive} & yices & 218 & 15 & 0 & 0 & 0.01 \\
+& & z3 & 218 & 15 & 0 & 0 & 0.04 \\
+& & mathsat & 218 & 15 & 0 & 0 & 0.03 \\
+& & cvc4 & 218 & 15 & 0 & 0 & 0.1 \\
+& & veriT & 218 & 15 & 0 & 0 & 0.02 \\
+& & opensmt & 218 & 15 & 0 & 0 & 0.03 \\
+\cline{2-8}
+ & \multirow{6}{*}{switch} & yices & 218 & 15 & 0 & 0 & 0.01 \\
+& & z3 & 218 & 15 & 0 & 0 & 0.04 \\
+& & mathsat & 218 & 15 & 0 & 0 & 0.03 \\
+& & cvc4 & 218 & 15 & 0 & 0 & 0.12 \\
+& & veriT & 218 & 15 & 0 & 0 & 0.02 \\
+& & opensmt & 218 & 15 & 0 & 0 & 0.04 \\
+\cline{2-8}
+\hline
+\multirow{4}{*}{\textbf{MILP}}  & \multirow{4}{*}{switch} & gurobi & 218 & 15 & 0 & 0 & 0.03 \\
+& & cplex & 218 & 15 & 0 & 0 & 0.07 \\
+& & scip & 218 & 15 & 0 & 0 & 0.06 \\
+& & cbc & 210 & 15 & 8 & 0 & 21.65 \\
+\cline{2-8}
+\hline
+\multirow{3}{*}{\textbf{SAT}}  & \multirow{3}{*}{naive} & kissat & 218 & 15 & 0 & 0 & 0.68 \\
+& & cadical & 218 & 15 & 0 & 0 & 0.79 \\
+& & cryptominisat & 218 & 15 & 0 & 0 & 0.97 \\
+\cline{2-8}
+\hline
+\multirow{6}{*}{\textbf{CP}}  & \multirow{3}{*}{naive} & chuffed & 218 & 15 & 0 & 0 & 7.56 \\
+& & gecode & 62 & 13 & 158 & 0 & 408.73 \\
+& & or-tools & 201 & 15 & 17 & 0 & 44.47 \\
+\cline{2-8}
+ & \multirow{3}{*}{switch} & chuffed & 218 & 15 & 0 & 0 & 8.68 \\
+& & gecode & 27 & 13 & 193 & 0 & 497.23 \\
+& & or-tools & 198 & 15 & 20 & 0 & 53.95 \\
+\cline{2-8}
+\hline
+\end{tabular}}
