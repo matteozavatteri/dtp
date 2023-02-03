@@ -6,9 +6,17 @@
 
 [Link to paper]()
 
-    @article{ 
-        (bibtex info coming soon)
-    }
+    @article{DTP-Experiments-Constraints-2023,
+  		author = {Zavatteri, Matteo and Raffaele, Alice and Ostuni, Dario and Rizzi, Romeo},
+  		title = {An Interdisciplinary Experimental Evaluation on the Disjunctive Temporal Problem (to appear)},
+  		year = {2023},
+  		journal = {Constraints},
+  		volume = {},
+  		number = {},
+  		pages = {},
+  		doi = {https://doi.org/10.1007/s10601-023-09342-7},
+  		type = {Letter}
+}
 
 
 # Required tools
