@@ -9,13 +9,13 @@
     @article{ 
         author = {Zavatteri, Matteo and Raffaele, Alice and Ostuni, Dario and Rizzi, Romeo},
         title = {An Interdisciplinary Experimental Evaluation on the Disjunctive Temporal Problem},
-    	year = {2023},
-	    journal = {Constraints},
-	    volume = {28},
-	    number = {1},
-	    pages = {1-12},
-	    doi = {10.1007/s10601-023-09342-7},
-	    type = {Letter}
+        year = {2023},
+        journal = {Constraints},
+        volume = {28},
+        number = {1},
+        pages = {1-12},
+        doi = {10.1007/s10601-023-09342-7},
+        type = {Letter}
     }
 
 
