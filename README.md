@@ -75,4 +75,4 @@ Example:
 
 (see  "solving_time/encoding_time" folders)
 
-The SAT encoders were developed by [@dariost](https://github.com/dariost).
+The SAT encoders were developed by [@dariost](https://github.com/dariost). 
