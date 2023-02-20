@@ -4,19 +4,19 @@
 
 [1] Matteo Zavatteri, Alice Raffaele, Dario Ostuni, Romeo Rizzi. An Interdisciplinary Experimental Evaluation on the Disjunctive Temporal Problem. Constraints.
 
-[Link to paper](https://link.springer.com/article/10.1007/s10601-023-09342-7)
+[Link to paper]()
 
-    @article{DTP-Experiments-Constraints-2023,
-  		author = {Zavatteri, Matteo and Raffaele, Alice and Ostuni, Dario and Rizzi, Romeo},
-  		title = {An Interdisciplinary Experimental Evaluation on the Disjunctive Temporal Problem (to appear)},
-  		year = {2023},
-  		journal = {Constraints},
-  		volume = {},
-  		number = {},
-  		pages = {},
-  		doi = {https://doi.org/10.1007/s10601-023-09342-7},
-  		type = {Letter}
-}
+    @article{ 
+        author = {Zavatteri, Matteo and Raffaele, Alice and Ostuni, Dario and Rizzi, Romeo},
+        title = {An Interdisciplinary Experimental Evaluation on the Disjunctive Temporal Problem},
+    	year = {2023},
+	    journal = {Constraints},
+	    volume = {28},
+	    number = {1},
+	    pages = {1-12},
+	    doi = {10.1007/s10601-023-09342-7},
+	    type = {Letter}
+    }
 
 
 # Required tools
